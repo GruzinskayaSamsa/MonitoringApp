@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MonitoringAdd</string>
+    <string name="SputnikName">CrOwl - 2</string>
+    <string name="online">online</string>
+    <string name="no_connect">no connect</string>
+    <string name="offline">offline</string>
+    <string name="battery1"> 15%</string>
+    <string name="id">ID- </string>
+    <string name="cells_count">Количество аккумуляторов: </string>
+    <string name="reference_voltage">Максимальоне напряжение: </string>
+    <string name="cell_number">Номер аккумулятора: </string>
+    <string name="cell_data">Показание аккумулятора: </string>
+</resources>
